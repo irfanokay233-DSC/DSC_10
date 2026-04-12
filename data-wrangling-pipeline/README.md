@@ -1,4 +1,4 @@
-## Data Wrangling Pipeline 1
+## Data Wrangling Pipeline
 
 Work in progress.
 Still in Progress...
