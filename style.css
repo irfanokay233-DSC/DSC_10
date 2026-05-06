@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 30px;
+  line-height: 1.6;
+  color: #222;
+}
+
+header {
+  text-align: center;
+  padding: 40px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+nav {
+  text-align: center;
+  margin: 25px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  margin: 40px 0;
+}
+
+.project {
+  border: 1px solid #ddd;
+  padding: 18px;
+  margin: 18px 0;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.project h3 {
+  margin-top: 0;
+}
+
+a {
+  color: #0056b3;
+}
