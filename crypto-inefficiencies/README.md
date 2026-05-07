@@ -4,7 +4,7 @@
 
 This project explores structural inefficiencies in leveraged cryptocurrency markets.
 
-The focus is on how extreme conditions can create temporary distortions in price behavior.
+The focus is on how extreme conditions can create short lived but consistent distortions in price behavior.
 
 ### What I did
 
